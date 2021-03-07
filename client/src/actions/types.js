@@ -1,0 +1,7 @@
+export const USER_SUBMITED = 'user_submited'
+export const USER_LOADING = 'user_loading'
+export const FETCH_USER = 'fetch_user'
+export const FETCH_GUIDE = 'fetch_guide'
+export const SUB_GUIDE = 'sub_guide'
+export const ADD_GUIDE = 'add_guide'
+export const DELETE_GUIDE = 'delete_guide'

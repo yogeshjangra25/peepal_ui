@@ -5,28 +5,11 @@
 /.pnp
 .pnp.js
 
-# client dependencies
-/client/node_modules
-/client/.pnp
-/client/.pnp.js
-
-# server dependencies
-/server/node_modules
-/server/.pnp
-/server/.pnp.js
-
-# client testing
-/client/coverage
-/client/coverage
-
-# server testing
-/server/coverage
-/server/coverage
+# testing
+/coverage
 
 # production
-/client/build
-/server/build
-
+/build
 
 # misc
 .DS_Store
